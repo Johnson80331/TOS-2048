@@ -4,10 +4,9 @@
 自動遊玩腳本，按右上角按鈕可以隨時停止/繼續運行，在[神魔2048](https://service-2048-215049868210.us-west1.run.app/)網站運行
 </div>
 
-## 安裝方法
-兩種方法皆可，第一種無須安裝第三方程式，第二種則比較方便
+## 使用方法
 
-1. 複製以下代碼(右上角可複製)，前往[神魔2048](https://service-2048-215049868210.us-west1.run.app/)網站按下`F12`開啟開發人員工具，在`控制台 / Console`貼上按`Enter`
+複製以下代碼(右上角可複製)，前往[神魔2048](https://service-2048-215049868210.us-west1.run.app/)網站按下`F12`開啟開發人員工具，在`控制台 / Console`貼上按`Enter`
 
 <details>
 <summary>按我展開代碼</summary>
@@ -349,8 +348,6 @@
 ```
 
 </details>
-
-2. 先在瀏覽器添加Tampermonkey擴充功能，然後[按此下載](https://github.com/Johnson80331/TOS-2048/raw/refs/heads/main/TOS2048-1.0.user.js)
 
 ## 注意事項
 <div align="center">
