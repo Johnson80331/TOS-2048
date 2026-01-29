@@ -8,6 +8,7 @@
 <div align="center">
 
 需要先在瀏覽器添加Tampermonkey擴充功能，然後[按此下載](https://github.com/Johnson80331/TOS-2048/raw/refs/heads/main/TOS2048-1.0.user.js)（經測試在Chrome和Firefox皆可使用）  
+按右上角按鈕可以隨時停止/繼續運行
 
 </div>
 
